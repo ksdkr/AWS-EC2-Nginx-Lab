@@ -25,13 +25,20 @@ Connected using SSH.
 ### Update Packages
 
 sudo apt update
+
 sudo apt upgrade -y
+
 sudo apt install nginx -y
+
 sudo systemctl status nginx
+
 sudo systemctl restart nginx
+
 df -h
+
 free -h
+
 ps -ef
-HTML Page is Created
+
 sudo systemctl restart nginx
 http://Public-IP
