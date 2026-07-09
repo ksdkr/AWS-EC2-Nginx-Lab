@@ -6,7 +6,6 @@
 - Security Groups
 - VPC
 
----
 
 ## Steps
 
@@ -21,7 +20,7 @@ Allowed
 
 Connected using SSH.
 
----
+
 
 ### Update Packages
 
